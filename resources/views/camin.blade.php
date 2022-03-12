@@ -7,7 +7,7 @@
             <br>
             <div class="row mt-4" style="">
                 @foreach ($data as $camin)
-                    <div class="card col-3 mx-auto">
+                    <div class="card col-5 mx-auto mb-4">
                         <img src="https://buildyourspechere.com/wp-content/uploads/2020/10/placeholder-image-person-jpg.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h5 class="card-title">
