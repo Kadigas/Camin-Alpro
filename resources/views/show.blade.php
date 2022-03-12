@@ -14,6 +14,7 @@
                     <h5>Angkatan: {{$data["angkatan"]}}</h5>
                 </div>
             </div>
+            <a href="/camin" class="btn btn-danger btn-sm d-flex justify-content-center">Back</a>
         </div>
     </section>
 @endsection

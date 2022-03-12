@@ -14,7 +14,7 @@
                                 {{ $camin["nama"] }}
                             </h5>
                             <h6 class="card-text">{{ $camin["nrp"] }}</h6>
-                            <a href="/camin/{{ $camin["id"] }}" class="btn btn-primary btn-sm">Detail</a>
+                            <a href="/camin/{{ $camin["id"] }}" class="btn btn-primary btn-sm">Details</a>
                         </div>
                     </div>
                 @endforeach
